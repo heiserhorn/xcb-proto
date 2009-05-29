@@ -1,3 +1,9 @@
+xcb-proto (1.5-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Julien Danjou <acid@debian.org>  Fri, 29 May 2009 09:14:15 +0200
+
 xcb-proto (1.4-1) unstable; urgency=low
 
   * New upstream release.
