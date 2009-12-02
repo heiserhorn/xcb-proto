@@ -1,3 +1,11 @@
+xcb-proto (1.6-1) unstable; urgency=low
+
+  * New upstream release
+  * Switch to format 3.0
+  * Bump standard version
+
+ -- Julien Danjou <acid@debian.org>  Wed, 02 Dec 2009 10:16:19 +0100
+
 xcb-proto (1.5-1) unstable; urgency=low
 
   * New upstream release.
