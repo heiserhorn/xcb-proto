@@ -1,3 +1,9 @@
+xcb-proto (1.6-2) unstable; urgency=low
+
+  * Drop cdbs in favor of dh 7 (Closes: #564351)
+
+ -- Julien Danjou <acid@debian.org>  Tue, 12 Jan 2010 10:54:16 +0100
+
 xcb-proto (1.6-1) unstable; urgency=low
 
   * New upstream release
