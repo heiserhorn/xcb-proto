@@ -1,3 +1,10 @@
+xcb-proto (1.6-3) UNRELEASED; urgency=low
+
+  * Remove Jamey Sharp and Josh Triplett from the Uploaders list
+    (closes: #568275).
+
+ -- Julien Cristau <jcristau@debian.org>  Sat, 12 Nov 2011 01:02:50 +0100
+
 xcb-proto (1.6-2) unstable; urgency=low
 
   * Drop cdbs in favor of dh 7 (Closes: #564351)
