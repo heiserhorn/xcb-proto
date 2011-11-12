@@ -2,6 +2,7 @@ xcb-proto (1.6-3) UNRELEASED; urgency=low
 
   * Remove Jamey Sharp and Josh Triplett from the Uploaders list
     (closes: #568275).
+  * Make the packages Multi-Arch: foreign.
 
  -- Julien Cristau <jcristau@debian.org>  Sat, 12 Nov 2011 01:02:50 +0100
 

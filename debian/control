@@ -11,6 +11,7 @@ XS-Vcs-Browser: http://gitweb.freedesktop.org/?p=xcb/proto.git
 
 Package: xcb-proto
 Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: X C Binding - protocol descriptions
  xcb-proto contains descriptions of the X Window System core protocol and
@@ -33,6 +34,7 @@ Description: X C Binding - protocol descriptions
 Package: python-xcbgen
 Section: python
 Architecture: all
+Multi-Arch: foreign
 Depends: ${python:Depends}, ${misc:Depends}
 Description: X C Binding - protocol binding generator
  python-xcbgen generates the X protocol C language bindings from XML
