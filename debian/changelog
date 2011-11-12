@@ -1,4 +1,4 @@
-xcb-proto (1.6-3) UNRELEASED; urgency=low
+xcb-proto (1.6-3) unstable; urgency=low
 
   * Remove Jamey Sharp and Josh Triplett from the Uploaders list
     (closes: #568275).
@@ -8,7 +8,7 @@ xcb-proto (1.6-3) UNRELEASED; urgency=low
   * Use dh-autoreconf instead of manual autoreconf so we clean things up
     properly.
 
- -- Julien Cristau <jcristau@debian.org>  Sat, 12 Nov 2011 01:02:50 +0100
+ -- Julien Cristau <jcristau@debian.org>  Sat, 12 Nov 2011 01:20:40 +0100
 
 xcb-proto (1.6-2) unstable; urgency=low
 
