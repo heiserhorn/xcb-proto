@@ -5,6 +5,8 @@ xcb-proto (1.6-3) UNRELEASED; urgency=low
   * Make the packages Multi-Arch: foreign.
   * Add single-debian-patch to debian/source/options because they broke
     dpkg-source (again).
+  * Use dh-autoreconf instead of manual autoreconf so we clean things up
+    properly.
 
  -- Julien Cristau <jcristau@debian.org>  Sat, 12 Nov 2011 01:02:50 +0100
 
