@@ -11,8 +11,8 @@ Build-Depends:
  automake,
 Standards-Version: 3.8.3
 Homepage: http://xcb.freedesktop.org
-XS-Vcs-Git: git://anongit.freedesktop.org/git/xcb/proto
-XS-Vcs-Browser: http://gitweb.freedesktop.org/?p=xcb/proto.git
+Vcs-Git: git://anonscm.debian.org/collab-maint/xcb-proto.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/xcb-proto.git
 
 Package: xcb-proto
 Architecture: all

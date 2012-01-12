@@ -1,3 +1,9 @@
+xcb-proto (1.6-4) UNRELEASED; urgency=low
+
+  * Point VCS-Git at the correct repositories, and drop unnecesarry XS- prefix.
+
+ -- Christopher James Halse Rogers <raof@ubuntu.com>  Thu, 12 Jan 2012 10:54:30 +0100
+
 xcb-proto (1.6-3) unstable; urgency=low
 
   * Remove Jamey Sharp and Josh Triplett from the Uploaders list
