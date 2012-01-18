@@ -1,6 +1,10 @@
-xcb-proto (1.6-4) UNRELEASED; urgency=low
+xcb-proto (1.7-1) UNRELEASED; urgency=low
 
+  [ Christopher James Halse Rogers ]
   * Point VCS-Git at the correct repositories, and drop unnecesarry XS- prefix.
+
+  [ Timo Aaltonen ]
+  * New upstream release.
 
  -- Christopher James Halse Rogers <raof@ubuntu.com>  Thu, 12 Jan 2012 10:54:30 +0100
 
