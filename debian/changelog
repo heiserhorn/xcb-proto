@@ -8,6 +8,7 @@ xcb-proto (1.7-1) UNRELEASED; urgency=low
 
   [ Cyril Brulebois ]
   * Add myself to Uploaders.
+  * Bump Standards-Version to 3.9.2 (no changes needed).
 
  -- Christopher James Halse Rogers <raof@ubuntu.com>  Thu, 12 Jan 2012 10:54:30 +0100
 
