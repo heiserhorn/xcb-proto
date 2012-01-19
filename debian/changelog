@@ -6,6 +6,9 @@ xcb-proto (1.7-1) UNRELEASED; urgency=low
   [ Timo Aaltonen ]
   * New upstream release.
 
+  [ Cyril Brulebois ]
+  * Add myself to Uploaders.
+
  -- Christopher James Halse Rogers <raof@ubuntu.com>  Thu, 12 Jan 2012 10:54:30 +0100
 
 xcb-proto (1.6-3) unstable; urgency=low
