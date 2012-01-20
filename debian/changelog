@@ -1,7 +1,10 @@
 xcb-proto (1.7-1) UNRELEASED; urgency=low
 
+  [ Arnaud Fontaine ]
+  * Switch from deprecated python-support to dh_python2.
+
   [ Christopher James Halse Rogers ]
-  * Point VCS-Git at the correct repositories, and drop unnecesarry XS- prefix.
+  * Point VCS-Git at the correct repositories, and drop unnecessary XS- prefix.
 
   [ Timo Aaltonen ]
   * New upstream release.
@@ -10,7 +13,7 @@ xcb-proto (1.7-1) UNRELEASED; urgency=low
   * Add myself to Uploaders.
   * Bump Standards-Version to 3.9.2 (no changes needed).
 
- -- Christopher James Halse Rogers <raof@ubuntu.com>  Thu, 12 Jan 2012 10:54:30 +0100
+ -- Arnaud Fontaine <arnau@debian.org>  Fri, 20 Jan 2012 10:38:00 +0900
 
 xcb-proto (1.6-3) unstable; urgency=low
 
