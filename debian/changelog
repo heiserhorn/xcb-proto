@@ -1,4 +1,4 @@
-xcb-proto (1.7-1) UNRELEASED; urgency=low
+xcb-proto (1.7-1) unstable; urgency=low
 
   [ Arnaud Fontaine ]
   * Switch from deprecated python-support to dh_python2.
@@ -14,7 +14,7 @@ xcb-proto (1.7-1) UNRELEASED; urgency=low
   * Add myself to Uploaders.
   * Bump Standards-Version to 3.9.2 (no changes needed).
 
- -- Arnaud Fontaine <arnau@debian.org>  Mon, 23 Jan 2012 18:00:39 +0900
+ -- Arnaud Fontaine <arnau@debian.org>  Wed, 25 Jan 2012 14:26:55 +0900
 
 xcb-proto (1.6-3) unstable; urgency=low
 
@@ -99,7 +99,7 @@ xcb-proto (1.0-1) experimental; urgency=low
 xcb-proto (0.9.92-1) experimental; urgency=low
 
   * New upstream release.
-  
+
   [ Josh Triplett ]
   * No longer installs files to /usr/include/X11, so remove Pre-Depends on
     x11-common.
@@ -158,4 +158,3 @@ fd.o-xcb-proto (0.8-1) unstable; urgency=low
   * Initial Release.
 
  -- Jamey Sharp <sharpone@debian.org>  Thu, 18 Mar 2004 00:09:03 -0800
-
