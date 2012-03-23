@@ -1,8 +1,9 @@
 xcb-proto (1.7.1-1) unstable; urgency=low
 
   * New upstream release.
+  * Bump standard version
 
- -- Julien Danjou <acid@debian.org>  Fri, 23 Mar 2012 23:41:09 +0100
+ -- Julien Danjou <acid@debian.org>  Fri, 23 Mar 2012 23:42:51 +0100
 
 xcb-proto (1.7-1) unstable; urgency=low
 
