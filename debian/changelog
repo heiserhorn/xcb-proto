@@ -1,3 +1,9 @@
+xcb-proto (1.8-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Julien Cristau <jcristau@debian.org>  Thu, 30 May 2013 23:08:03 +0200
+
 xcb-proto (1.7.1-1) unstable; urgency=low
 
   * New upstream release.
