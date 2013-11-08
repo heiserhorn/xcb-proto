@@ -1,6 +1,7 @@
 xcb-proto (1.9-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Bump Standard-version to 3.9.4.
 
  -- Michele Cane <michele.cane@gmail.com>  Fri, 08 Nov 2013 13:07:24 +0100
 
