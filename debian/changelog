@@ -1,3 +1,9 @@
+xcb-proto (1.9-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Michele Cane <michele.cane@gmail.com>  Fri, 08 Nov 2013 13:07:24 +0100
+
 xcb-proto (1.8-1) unstable; urgency=low
 
   * New upstream release.
