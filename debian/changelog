@@ -1,9 +1,10 @@
-xcb-proto (1.9-1) UNRELEASED; urgency=low
+xcb-proto (1.9-1) experimental; urgency=low
 
   * New upstream release.
   * Bump Standard-version to 3.9.4.
+  * Release to experimental.
 
- -- Michele Cane <michele.cane@gmail.com>  Fri, 08 Nov 2013 13:07:24 +0100
+ -- Michele Cane <michele.cane@gmail.com>  Mon, 11 Nov 2013 13:09:58 +0100
 
 xcb-proto (1.8-1) unstable; urgency=low
 
